@@ -1,0 +1,7 @@
+.snake-body {
+  background-color: green;
+}
+
+.food {
+  background-color: #ff0800;
+}
